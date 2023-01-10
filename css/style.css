@@ -1524,7 +1524,7 @@ th {
 
 @media screen and (min-width:1200px)
 {
-  .card.col-md-4.animate-box.fadeInUp.animated {
+  .card.col-md-4 {
    margin: 1%;
    width: 31%;
   }
