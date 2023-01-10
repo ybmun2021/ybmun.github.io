@@ -1521,3 +1521,11 @@ th {
 	text-align: left;
 	padding: 8px;
 }
+
+@media screen and (min-width:1200px)
+{
+  .card.col-md-4.animate-box.fadeInUp.animated {
+   margin: 1%;
+   width: 31%;
+  }
+}
