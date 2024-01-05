@@ -1547,6 +1547,11 @@ th {
 {
 	text-align:justify;
 }
+
+.d-flex .card p.title
+{
+	text-align:center !important;
+}
 @media screen and (max-width:767px)
 {
 	.d-flex .card
@@ -1554,4 +1559,6 @@ th {
 	margin-left: 10px;
         margin-right: 10px;
 }
+
+	
 }
