@@ -1538,9 +1538,12 @@ th {
     flex-wrap: wrap;
     align-content: flex-start;
 }
-.d-flex .card p
+.d-flex .card
 {
 	background:#fff;
 	margin-bottom: 0px;
+}
+.d-flex .card p
+{
 	text-align:justify;
 }
