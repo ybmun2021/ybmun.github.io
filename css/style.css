@@ -1529,3 +1529,18 @@ th {
    width: 31%;
   }
 }
+
+
+.d-flex
+{
+    display: flex !important;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+.d-flex .card
+{
+	background:#fff;
+	margin-bottom: 0px;
+	text-align:justify;
+}
