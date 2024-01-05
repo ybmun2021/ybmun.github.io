@@ -1542,10 +1542,16 @@ th {
 {
 	background:#fff;
 	margin-bottom: 0px;
-	margin-left: 10px;
-        margin-right: 10px;
 }
 .d-flex .card p
 {
 	text-align:justify;
+}
+@media screen and (max-width:767px)
+{
+	.d-flex .card
+{
+	margin-left: 10px;
+        margin-right: 10px;
+}
 }
