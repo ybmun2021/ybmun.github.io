@@ -1174,7 +1174,7 @@ h6 {
 }
 
 @media screen and (max-width:768px) {
-	#main-offcanvas {
+	..offcanvas-visible #main-offcanvas {
 		display: block
 	}
 }
